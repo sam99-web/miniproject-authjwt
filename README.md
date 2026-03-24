@@ -65,10 +65,7 @@ cp .env.example .env
 
 ### Configurer le `.env`
 
-```env
-PORT=3000
-JWT_SECRET=mon_secret_super_long_et_random_123
-JWT_EXPIRES_IN=15m
+
 ```
 
 > ⚠️ Ne jamais commiter le fichier `.env` sur GitHub.
